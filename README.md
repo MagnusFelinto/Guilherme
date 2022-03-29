@@ -4,7 +4,9 @@
 
 [![160744959694494596](https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/HelloTOP.png)](https://github.com/Guilherme-A-Silva?tab=repositories)
 
-<img src="https://github.com/Guilherme-A-Silva/Guilherme/blob/main/imagens/Profile.gif" width="100px"> 
+<img src="https://github.com/Guilherme-A-Silva/Guilherme/blob/main/imagens/Profile.gif" width="100px" sytle="display: block;
+    margin-left: auto;
+    margin-right: auto"> 
 
 -   :thought_balloon: |    I'm just a boy looking for happiness   | :thought_balloon:
 -   :hammer_and_pick: |      C / C++ / GitHub Actions / Python    | 
@@ -15,10 +17,17 @@
 
 <h3 align="left">Contato em:</h3>
 <p align="left">
-<a href="https://twitter.com/Guilherme_AS0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/guilherme_a.s16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/Guilherme_AS0" target="blank">
+  
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+<a href="seu link" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/guilherme_a.s16/" target="blank">
+  
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank">
+  
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <div align="center">
