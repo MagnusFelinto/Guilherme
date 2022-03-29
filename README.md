@@ -4,7 +4,9 @@
 
 [![160744959694494596](https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/HelloTOP.png)](https://github.com/Guilherme-A-Silva?tab=repositories)
 
-<img src="https://github.com/Guilherme-A-Silva/Guilherme/blob/main/imagens/Profile.gif" width="100px"> 
+<img src="https://github.com/Guilherme-A-Silva/Guilherme/blob/main/imagens/Profile.gif" width="100px" style="display: block;
+    margin-left: auto;
+    margin-right: auto"> 
 
 -   :thought_balloon: |    I'm just a boy looking for happiness   | :thought_balloon:
 -   :hammer_and_pick: |      C / C++ / GitHub Actions / Python    | 
